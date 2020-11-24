@@ -12,7 +12,9 @@ p {
   padding-left: 10px;
 }
 #range {
-  padding-top: 50px;
+  padding-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .materialize-red {
